@@ -1,0 +1,11 @@
+After watching the first episode of FX Fighter Kurumi-Chan, I'm now kinda interested in Forex trading lol.
+
+I will be trying to make a sim by using the Finnhub.io api and websocket for my trading sim.
+
+API - once per day to fetch history
+WebSocket - Receives data whenever Finnhub server updates
+
+Additional ideas
+Maybe I'll add a script or mode where you can connect to a server leaderboard for trading with friends. I'm planning on hosting a trading sim leaderboard on my Raspberry Pi 5 lol.
+
+Let's get started!(This will probs be hellish XD)
